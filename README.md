@@ -1,4 +1,4 @@
-PRIMERA ENTREGA CODERHOUSE COMISION 60035 REACT
+PRIMERA ENTREGA CODERHOUSE COMISION 60035 REACT Romina Barrionuevo
 
 *Crea una carpeta dentro de src llamada components que contenga la implementación del componente NavBar dentro del archivo NavBar.js. Su funcionalidad es la de renderizar una barra de menú (Navbar).
 
